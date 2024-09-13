@@ -302,3 +302,8 @@ footer {
         height: auto; 
     }
 }
+
+.btn-social i {
+    font-size: 24px; /* Ajusta el tamaño según sea necesario */
+    color: #fff; /* Asegúrate de que el color sea visible sobre el fondo */
+}
